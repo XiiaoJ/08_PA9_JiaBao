@@ -1,0 +1,10 @@
+C:\Users\Wong_\Desktop\088_PA9_JiaBao\088_PA9_JiaBao\bin\Debug\088_PA9_JiaBao.exe.config
+C:\Users\Wong_\Desktop\088_PA9_JiaBao\088_PA9_JiaBao\bin\Debug\088_PA9_JiaBao.exe
+C:\Users\Wong_\Desktop\088_PA9_JiaBao\088_PA9_JiaBao\bin\Debug\088_PA9_JiaBao.pdb
+C:\Users\Wong_\Desktop\088_PA9_JiaBao\088_PA9_JiaBao\obj\Debug\088_PA9_JiaBao.csprojAssemblyReference.cache
+C:\Users\Wong_\Desktop\088_PA9_JiaBao\088_PA9_JiaBao\obj\Debug\_088_PA9_JiaBao.Form1.resources
+C:\Users\Wong_\Desktop\088_PA9_JiaBao\088_PA9_JiaBao\obj\Debug\_088_PA9_JiaBao.Properties.Resources.resources
+C:\Users\Wong_\Desktop\088_PA9_JiaBao\088_PA9_JiaBao\obj\Debug\088_PA9_JiaBao.csproj.GenerateResource.cache
+C:\Users\Wong_\Desktop\088_PA9_JiaBao\088_PA9_JiaBao\obj\Debug\088_PA9_JiaBao.csproj.CoreCompileInputs.cache
+C:\Users\Wong_\Desktop\088_PA9_JiaBao\088_PA9_JiaBao\obj\Debug\088_PA9_JiaBao.exe
+C:\Users\Wong_\Desktop\088_PA9_JiaBao\088_PA9_JiaBao\obj\Debug\088_PA9_JiaBao.pdb
